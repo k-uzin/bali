@@ -275,5 +275,8 @@ body {
     .inner {
         max-width: 1280px;
     }
+     .cont01 .list .item {
+        width: calc(100% / 4 - 7px);
+    }
 
 } /* min 641 */
