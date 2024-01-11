@@ -216,6 +216,8 @@ body {
 
 .cont03 .swiper-slide figure img {
     width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 .cont03 .swiper-slide .info {
